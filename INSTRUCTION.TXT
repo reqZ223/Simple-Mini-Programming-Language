@@ -1,0 +1,4 @@
+INSTRUCTIONS ON HOW TO WRITE YOUR COMMANDS:
+
+Currently, the interpreter can interpret: 
+  - 
