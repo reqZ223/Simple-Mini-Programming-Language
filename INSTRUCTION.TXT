@@ -1,4 +1,30 @@
 INSTRUCTIONS ON HOW TO WRITE YOUR COMMANDS:
 
-Currently, the interpreter can interpret: 
-  - 
+Below are the commands the interpreter can currently interpret:
+
+set <variable> to <integer>
+add <variable or integer> to <variable>
+subtract <variable or integer> from <variable>
+print <variable, literal, cls or integer> *1 - Prints without a new line
+println <variable, literal, cls or integer> *1 - Prints then does a new line
+End *2 - Stops the program
+/ Any line starting with / is a comment line
+Blank line Treated as a comment  
+
+multiply <variable> by <variable or integer>
+divide <variable> by <variable or integer>
+
+
+
+-------------------------------------------------------------: Tasks 1,2, and 3 text files can be used as examples/guidelines on how to write your own commands.
+
+If <variable or integer> <operator> <variable or integer>
+then
+endif
+-------------------------------------------------------------: Tasks 3 and 4 are examples. 
+While <variable or integer> <operator> <variable or integer> do *4 - ‘do’ is not optional
+Same operators as ‘if’ statement *4
+endwhile
+-------------------------------------------------------------: Tasks 4 and 5 can be used as examples.
+
+***Note: For commands that use while and if-else statements, the commands inside the statements must be indented with a "\t".
